@@ -1,3 +1,5 @@
+//This program coverts a Character to it's ASCII value.
+
 #include <stdio.h>
 
 void main(void)
