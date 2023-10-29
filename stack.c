@@ -1,3 +1,6 @@
+//This is a program to implement stack.
+//It can perform 5 operations, peek, pop, puch, isFull, isEmpty
+
 #include<stdio.h>
 #include<stdbool.h>
 #define sizeOfStack 20
