@@ -3,7 +3,7 @@
 
 #include<stdio.h>
 #include<stdbool.h>
-#define sizeOfStack 20
+#define sizeOfStack 20  //You can the size of the stack from 20 to anything you want.
 
 typedef struct
 {
